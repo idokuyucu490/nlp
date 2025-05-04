@@ -1,0 +1,130 @@
+original_text,cleaned_text
+SEPSIS,sepsis
+HEPATITIS B,hepatitis b
+SEPSIS,sepsis
+HUMERAL FRACTURE,humeral fracture
+ALCOHOLIC HEPATITIS,alcoholic hepatitis
+STROKE/TIA,stroketia
+ MITRAL REGURGITATION;CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT WITH MVR  ? MITRAL VALVE REPLACEMENT /SDA,mitral regurgitationcoronary artery diseasecoronary artery bypass graft mvr mitral valve replacement sda
+SYNCOPE;TELEMETRY,syncopetelemetry
+RIGHT HUMEROUS FRACTURE,right humerous fracture
+RENAL FAILIURE-SYNCOPE-HYPERKALEMIA,renal failiuresyncopehyperkalemia
+"RECURRENT LEFT CAROTID STENOSIS,PRE HYDRATION",recurrent left carotid stenosispre hydration
+SEPSIS,sepsis
+FAILURE TO THRIVE,failure thrive
+PULMONARY EDEMA\CATH,pulmonary edemacath
+UNSTABLE ANGINA,unstable angina
+RESPIRATORY DISTRESS,respiratory distress
+METASTATIC MELANOMA;BRAIN METASTASIS,metastatic melanomabrain metastasis
+FEVER,fever
+BRAIN METASTASES,brain metastasis
+SEPSIS,sepsis
+VARICEAL BLEED,variceal bleed
+LOWER GI BLEED,lower gi bleed
+CHEST PAIN/ CATH,chest pain cath
+SUBDURAL HEMATOMA/S/P FALL,subdural hematomasp fall
+ESOPHAGEAL CANCER/SDA,esophageal cancersda
+S/P MOTORCYCLE ACCIDENT,sp motorcycle accident
+SEIZURE,seizure
+GASTROINTESTINAL BLEED,gastrointestinal bleed
+LUNG CANCER;SHORTNESS OF BREATH,lung cancershortness breath
+HYPOTENSION,hypotension
+SEPSIS;PNEUMONIA;TELEMETRY,sepsispneumoniatelemetry
+CONGESTIVE HEART FAILURE,congestive heart failure
+UROSEPSIS,urosepsis
+BASAL GANGLIN BLEED,basal ganglin bleed
+OVERDOSE,overdose
+CRITICAL AORTIC STENOSIS/HYPOTENSION,critical aortic stenosishypotension
+HYPOTENSION;TELEMETRY,hypotensiontelemetry
+SEPSIS;TELEMETRY,sepsistelemetry
+STATUS POST MOTOR VEHICLE ACCIDENT WITH INJURIES,status post motor vehicle accident injury
+TACHYPNEA;TELEMETRY,tachypneatelemetry
+CHRONIC MYELOGENOUS LEUKEMIA;TRANSFUSION REACTION,chronic myelogenous leukemiatransfusion reaction
+HYPONATREMIA;URINARY TRACT INFECTION,hyponatremiaurinary tract infection
+HEADACHE,headache
+CONGESTIVE HEART FAILURE,congestive heart failure
+VF ARREST ,vf arrest
+"PULMONARY EDEMA, MI",pulmonary edema mi
+FEVER,fever
+FEVER,fever
+ACUTE CHOLECYSTITIS,acute cholecystitis
+GASTROINTESTINAL BLEED,gastrointestinal bleed
+LIVER FAILURE,liver failure
+LEFT HIP FRACTURE,left hip fracture
+CONGESTIVE HEART FAILURE,congestive heart failure
+LIVER FAILURE,liver failure
+S/P MOTOR VEHICLE ACCIDENT,sp motor vehicle accident
+ABSCESS,abscess
+NON SMALL CELL CANCER;HYPOXIA,non small cell cancerhypoxia
+SHORTNESS OF BREATH,shortness breath
+PNEUMONIA,pneumonia
+ACUTE CHOLANGITIS,acute cholangitis
+FEVER;URINARY TRACT INFECTION,feverurinary tract infection
+SYNCOPE;TELEMETRY;INTRACRANIAL HEMORRHAGE,syncopetelemetryintracranial hemorrhage
+LEFT HIP OA/SDA,left hip oasda
+MEDIASTINAL ADENOPATHY,mediastinal adenopathy
+FACIAL NUMBNESS,facial numbness
+AROMEGLEY;BURKITTS LYMPHOMA,aromegleyburkitts lymphoma
+PNEUMONIA,pneumonia
+STEMI;,stemi
+TRACHEAL ESOPHAGEAL FISTULA,tracheal esophageal fistula
+SEPSIS,sepsis
+CHOLECYSTITIS,cholecystitis
+CELLULITIS,cellulitis
+ABDOMINAL PAIN,abdominal pain
+ASTHMA;CHRONIC OBST PULM DISEASE,asthmachronic obst pulm disease
+ASTHMA;CHRONIC OBST PULM DISEASE,asthmachronic obst pulm disease
+ELEVATED LIVER FUNCTIONS;S/P LIVER TRANSPLANT,elevated liver functionssp liver transplant
+PNEUMONIA,pneumonia
+HYPOTENSION;UNRESPONSIVE,hypotensionunresponsive
+SEPSIS,sepsis
+PNEUMONIA,pneumonia
+PNEUMONIA,pneumonia
+FEVER,fever
+SEPSIS,sepsis
+URINARY TRACT INFECTION;PYELONEPHRITIS,urinary tract infectionpyelonephritis
+SEPSIS,sepsis
+SEPSIS; UTI,sepsis uti
+PNEUMONIA,pneumonia
+UTI/PYELONEPHRITIS,utipyelonephritis
+RESPIRATORY DISTRESS,respiratory distress
+SEPSIS,sepsis
+SEPSIS,sepsis
+S/P FALL,sp fall
+SHORTNESS OF BREATH,shortness breath
+TRACHEAL STENOSIS,tracheal stenosis
+INFERIOR MYOCARDIAL INFARCTION\CATH,inferior myocardial infarctioncath
+FAILURE TO THRIVE,failure thrive
+HEPATIC ENCEP,hepatic encep
+CHEST PAIN,chest pain
+RENAL CANCER/SDA,renal cancersda
+SHORTNESS OF BREATH,shortness breath
+UPPER GI BLEED,upper gi bleed
+PNEUMONIA/HYPOGLCEMIA/SYNCOPE,pneumoniahypoglcemiasyncope
+ASTHMA/COPD FLARE,asthmacopd flare
+FAILURE TO THRIVE,failure thrive
+PNEUMONIA,pneumonia
+VOLVULUS,volvulus
+SEIZURE;STATUS EPILEPTICUS,seizurestatus epilepticus
+HYPOGLYCEMIA,hypoglycemia
+CEREBROVASCULAR ACCIDENT,cerebrovascular accident
+PNEUMONIA,pneumonia
+HYPOTENSION,hypotension
+METASTIC MELANOMA;ANEMIA,metastic melanomaanemia
+"HYPOTENSION, RENAL FAILURE",hypotension renal failure
+ACUTE SUBDURAL HEMATOMA,acute subdural hematoma
+ESOPHAGEAL CA/SDA,esophageal casda
+MI CHF,mi chf
+STROKE/TIA,stroketia
+PLEURAL EFFUSION,pleural effusion
+ACUTE PULMONARY EMBOLISM,acute pulmonary embolism
+UPPER GI BLEED,upper gi bleed
+PNEUMONIA;TELEMETRY,pneumoniatelemetry
+CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT /SDA,coronary artery diseasecoronary artery bypass graft sda
+ESOPHAGEAL CA/SDA,esophageal casda
+SHORTNESS OF BREATH,shortness breath
+PERICARDIAL EFFUSION,pericardial effusion
+ALTERED MENTAL STATUS,altered mental status
+ACUTE RESPIRATORY DISTRESS SYNDROME;ACUTE RENAL FAILURE,acute respiratory distress syndromeacute renal failure
+BRADYCARDIA,bradycardia
+CHOLANGITIS,cholangitis

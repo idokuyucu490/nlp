@@ -1,0 +1,130 @@
+original_text,cleaned_text
+SEPSIS,sepsi
+HEPATITIS B,hepat b
+SEPSIS,sepsi
+HUMERAL FRACTURE,humer fractur
+ALCOHOLIC HEPATITIS,alcohol hepat
+STROKE/TIA,stroketia
+ MITRAL REGURGITATION;CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT WITH MVR  ? MITRAL VALVE REPLACEMENT /SDA,mitral regurgitationcoronari arteri diseasecoronari arteri bypass graft mvr mitral valv replac sda
+SYNCOPE;TELEMETRY,syncopetelemetri
+RIGHT HUMEROUS FRACTURE,right humer fractur
+RENAL FAILIURE-SYNCOPE-HYPERKALEMIA,renal failiuresyncopehyperkalemia
+"RECURRENT LEFT CAROTID STENOSIS,PRE HYDRATION",recurr left carotid stenosispr hydrat
+SEPSIS,sepsi
+FAILURE TO THRIVE,failur thrive
+PULMONARY EDEMA\CATH,pulmonari edemacath
+UNSTABLE ANGINA,unstabl angina
+RESPIRATORY DISTRESS,respiratori distress
+METASTATIC MELANOMA;BRAIN METASTASIS,metastat melanomabrain metastasi
+FEVER,fever
+BRAIN METASTASES,brain metastas
+SEPSIS,sepsi
+VARICEAL BLEED,varic bleed
+LOWER GI BLEED,lower gi bleed
+CHEST PAIN/ CATH,chest pain cath
+SUBDURAL HEMATOMA/S/P FALL,subdur hematomasp fall
+ESOPHAGEAL CANCER/SDA,esophag cancersda
+S/P MOTORCYCLE ACCIDENT,sp motorcycl accid
+SEIZURE,seizur
+GASTROINTESTINAL BLEED,gastrointestin bleed
+LUNG CANCER;SHORTNESS OF BREATH,lung cancershort breath
+HYPOTENSION,hypotens
+SEPSIS;PNEUMONIA;TELEMETRY,sepsispneumoniatelemetri
+CONGESTIVE HEART FAILURE,congest heart failur
+UROSEPSIS,urosepsi
+BASAL GANGLIN BLEED,basal ganglin bleed
+OVERDOSE,overdos
+CRITICAL AORTIC STENOSIS/HYPOTENSION,critic aortic stenosishypotens
+HYPOTENSION;TELEMETRY,hypotensiontelemetri
+SEPSIS;TELEMETRY,sepsistelemetri
+STATUS POST MOTOR VEHICLE ACCIDENT WITH INJURIES,statu post motor vehicl accid injuri
+TACHYPNEA;TELEMETRY,tachypneatelemetri
+CHRONIC MYELOGENOUS LEUKEMIA;TRANSFUSION REACTION,chronic myelogen leukemiatransfus reaction
+HYPONATREMIA;URINARY TRACT INFECTION,hyponatremiaurinari tract infect
+HEADACHE,headach
+CONGESTIVE HEART FAILURE,congest heart failur
+VF ARREST ,vf arrest
+"PULMONARY EDEMA, MI",pulmonari edema mi
+FEVER,fever
+FEVER,fever
+ACUTE CHOLECYSTITIS,acut cholecyst
+GASTROINTESTINAL BLEED,gastrointestin bleed
+LIVER FAILURE,liver failur
+LEFT HIP FRACTURE,left hip fractur
+CONGESTIVE HEART FAILURE,congest heart failur
+LIVER FAILURE,liver failur
+S/P MOTOR VEHICLE ACCIDENT,sp motor vehicl accid
+ABSCESS,abscess
+NON SMALL CELL CANCER;HYPOXIA,non small cell cancerhypoxia
+SHORTNESS OF BREATH,short breath
+PNEUMONIA,pneumonia
+ACUTE CHOLANGITIS,acut cholang
+FEVER;URINARY TRACT INFECTION,feverurinari tract infect
+SYNCOPE;TELEMETRY;INTRACRANIAL HEMORRHAGE,syncopetelemetryintracrani hemorrhag
+LEFT HIP OA/SDA,left hip oasda
+MEDIASTINAL ADENOPATHY,mediastin adenopathi
+FACIAL NUMBNESS,facial numb
+AROMEGLEY;BURKITTS LYMPHOMA,aromegleyburkitt lymphoma
+PNEUMONIA,pneumonia
+STEMI;,stemi
+TRACHEAL ESOPHAGEAL FISTULA,tracheal esophag fistula
+SEPSIS,sepsi
+CHOLECYSTITIS,cholecyst
+CELLULITIS,cellul
+ABDOMINAL PAIN,abdomin pain
+ASTHMA;CHRONIC OBST PULM DISEASE,asthmachron obst pulm diseas
+ASTHMA;CHRONIC OBST PULM DISEASE,asthmachron obst pulm diseas
+ELEVATED LIVER FUNCTIONS;S/P LIVER TRANSPLANT,elev liver functionssp liver transplant
+PNEUMONIA,pneumonia
+HYPOTENSION;UNRESPONSIVE,hypotensionunrespons
+SEPSIS,sepsi
+PNEUMONIA,pneumonia
+PNEUMONIA,pneumonia
+FEVER,fever
+SEPSIS,sepsi
+URINARY TRACT INFECTION;PYELONEPHRITIS,urinari tract infectionpyelonephr
+SEPSIS,sepsi
+SEPSIS; UTI,sepsi uti
+PNEUMONIA,pneumonia
+UTI/PYELONEPHRITIS,utipyelonephr
+RESPIRATORY DISTRESS,respiratori distress
+SEPSIS,sepsi
+SEPSIS,sepsi
+S/P FALL,sp fall
+SHORTNESS OF BREATH,short breath
+TRACHEAL STENOSIS,tracheal stenosi
+INFERIOR MYOCARDIAL INFARCTION\CATH,inferior myocardi infarctioncath
+FAILURE TO THRIVE,failur thrive
+HEPATIC ENCEP,hepat encep
+CHEST PAIN,chest pain
+RENAL CANCER/SDA,renal cancersda
+SHORTNESS OF BREATH,short breath
+UPPER GI BLEED,upper gi bleed
+PNEUMONIA/HYPOGLCEMIA/SYNCOPE,pneumoniahypoglcemiasyncop
+ASTHMA/COPD FLARE,asthmacopd flare
+FAILURE TO THRIVE,failur thrive
+PNEUMONIA,pneumonia
+VOLVULUS,volvulu
+SEIZURE;STATUS EPILEPTICUS,seizurestatu epilepticu
+HYPOGLYCEMIA,hypoglycemia
+CEREBROVASCULAR ACCIDENT,cerebrovascular accid
+PNEUMONIA,pneumonia
+HYPOTENSION,hypotens
+METASTIC MELANOMA;ANEMIA,metast melanomaanemia
+"HYPOTENSION, RENAL FAILURE",hypotens renal failur
+ACUTE SUBDURAL HEMATOMA,acut subdur hematoma
+ESOPHAGEAL CA/SDA,esophag casda
+MI CHF,mi chf
+STROKE/TIA,stroketia
+PLEURAL EFFUSION,pleural effus
+ACUTE PULMONARY EMBOLISM,acut pulmonari embol
+UPPER GI BLEED,upper gi bleed
+PNEUMONIA;TELEMETRY,pneumoniatelemetri
+CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT /SDA,coronari arteri diseasecoronari arteri bypass graft sda
+ESOPHAGEAL CA/SDA,esophag casda
+SHORTNESS OF BREATH,short breath
+PERICARDIAL EFFUSION,pericardi effus
+ALTERED MENTAL STATUS,alter mental statu
+ACUTE RESPIRATORY DISTRESS SYNDROME;ACUTE RENAL FAILURE,acut respiratori distress syndromeacut renal failur
+BRADYCARDIA,bradycardia
+CHOLANGITIS,cholang
